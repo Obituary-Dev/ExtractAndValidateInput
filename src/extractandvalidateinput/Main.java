@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package extract.and.validate.input;
+package extractandvalidateinput;
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
